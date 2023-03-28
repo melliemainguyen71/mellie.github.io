@@ -1,6 +1,6 @@
 ## Hey 👋, This is Mellie Nguyen
 [![Gmail Badge](https://img.shields.io/badge/-mellie.nguyen.71@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mellie.nguyen.71@gmail.com)](mailto:mellie.nguyen.71@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-Mai (Mellie) Nguyen)-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mai-nguyen-618661176/)](https://www.linkedin.com/in/mai-nguyen-618661176/) 
+[![Linkedin Badge](https://img.shields.io/badge/-mai-nguyen-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mai-nguyen-618661176/)](https://www.linkedin.com/in/mai-nguyen-618661176/) 
 [![Github Badge](https://img.shields.io/badge/-abc-grey?style=flat&logo=github&logoColor=white&link=https://github.com/abc/)](https://www.github.com/melliemainguyen71/) 
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=mellie/)](mellie/) <p align='left'>
   
