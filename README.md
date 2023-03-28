@@ -1,12 +1,18 @@
-# mellie.github.io
-Mellie's website
+## Hey 👋, This is Mellie Nguyen
+[![Gmail Badge](https://img.shields.io/badge/-mellie.nguyen.71@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mellie.nguyen.71@gmail.com)](mailto:mellie.nguyen.71@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-abc-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abc/)](https://www.linkedin.com/in/abc/) [![Github Badge](https://img.shields.io/badge/-abc-grey?style=flat&logo=github&logoColor=white&link=https://github.com/abc/)](https://www.github.com/abc/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=mellie/)](mellie/) <p align='left'>With data analysis experience in telecom business and financial service, I am working to become a data scientist.
 
-### Mellie Nguyen says hi 👋
-With data analysis experience in telecom business and financial service, I am working to become a data scientist.
-I'll soon to be a Master in Applied Data Science & Statistics at University of Exeter
-- 🔭 identify trends and patterns in customer-level data
+- identify trends and patterns in customer-level data
 - provide advice on upselling telecom subscriptions, churn prevention, and package design
 - develope ETL pipelines that automate the whole process of implementing models and tracking dashboards
+
+I'll soon to be a Master in Applied Data Science & Statistics at University of Exeter this September 2023.</p><p align='left'> You can view my resume <a href='abc ' target=_blank><u>here</u>.</a></p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=abc alt=abc /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=abc&show_icons=true&include_all_commits=true)](https://github.com/abc/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abc&layout=compact)](https://github.com/abc/github-readme-stats)
+
 
 <br>
 ## Connect with me
