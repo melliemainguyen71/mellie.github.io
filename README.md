@@ -13,7 +13,7 @@ With data analysis experience in telecom business and financial service, I am wo
 I'll soon to be a Master in Applied Data Science & Statistics at University of Exeter this September 2023.</p><p align='left'> You can view my resume <a href='abc ' target=_blank><u>here</u>.</a></p>
 
 ## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=melliemainguyen71 alt=melliemainguyen71 /> </p>
+<p align=left> <img src=https://komarev.com/ghpvc/?username=melliemainguyen71 alt=Mellie /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=melliemainguyen71&show_icons=true&include_all_commits=true)](https://github.com/melliemainguyen71/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melliemainguyen71&layout=compact)](https://github.com/melliemainguyen71/github-readme-stats)
